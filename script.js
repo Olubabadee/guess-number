@@ -26,7 +26,7 @@ const message = document.getElementById("message");
 
 function generateRandomNumber() {
   // Generate a random number between 1 and 100 (or customize the range)
-  const randomNumber = Math.floor(Math.random() * 50) + 1;
+  const randomNumber = Math.floor(Math.random() * 80) + 1;
   return randomNumber;
 }
 
